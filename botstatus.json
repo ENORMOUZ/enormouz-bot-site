@@ -7,7 +7,7 @@
    "Python-Programs":{
       "Fiverr":{
          "Centric-Media-DM-Bot": {"status": "Disabled", "message": "Please pay for the program, so that access will be given!"}, 
-         "InstaFriends": {"status": "Enabled", "message": "Trial Access, tell me if you like the bot!"}
+         "InstaFriends": {"status": "Disabled", "message": "Please pay for the program, so that access will be given!"}
       }
    }
 }
