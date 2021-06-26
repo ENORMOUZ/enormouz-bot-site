@@ -1,0 +1,27 @@
+{
+  "name": "enormouz-bot-site",
+  "version": "1.0.0",
+  "description": "ENORMOUZ Bot Site's API",
+  "main": "api.py",
+  "engines": {
+      "node": "8.x",
+      "npm": "*"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ENORMOUZ/enormouz-bot-site.git"
+  },
+  "keywords": [
+    "heroku",
+    "api"
+  ],
+  "author": "synicalsyntax",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ENORMOUZ/enormouz-bot-site/issues"
+  },
+  "homepage": "https://github.com/ENORMOUZ/enormouz-bot-site#readme"
+}
