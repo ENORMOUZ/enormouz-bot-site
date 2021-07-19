@@ -6,7 +6,7 @@
    }, 
    "Python-Programs":{
       "Fiverr":{
-         "Centric-Media-DM-Bot": {"status": "Disabled", "message": "Please pay for the program, so that access will be given permernantly!"}, 
+         "Centric-Media-DM-Bot": {"status": "Enabled", "message": "Please pay for the program, so that access will be given permernantly!"}, 
          "InstaFriends": {"status": "Enabled", "message": "Welcome to InstaFriends!"}
       }
    }
